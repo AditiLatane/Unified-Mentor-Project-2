@@ -1,4 +1,4 @@
-## Unified-Mentor-Task-1
+## Unified-Mentor-Task-2
 # Major Machine Learning Project: E-commerce Furniture Dataset 2024
 
 **Problem Statement :**
