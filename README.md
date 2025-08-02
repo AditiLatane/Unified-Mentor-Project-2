@@ -29,9 +29,8 @@ Predict the number of furniture items sold based on product attributes such as p
 
 
 7. Conclusion
-   This project successfully explored the dynamics of E-commerce Furniture Dataset 2024 using a combination of Exploratory Data Analysis (EDA), data visualization, and machine learning models.
    
-   The predictive analysis using both Linear Regression and Random Forest Regressor yielded exceptional results.
+   This project successfully explored the dynamics of E-commerce Furniture Dataset 2024 using a combination of Exploratory Data Analysis (EDA), data visualization, and machine learning models.The predictive analysis using both Linear Regression and Random Forest Regressor yielded exceptional results.
 
 
 Next Project : 
